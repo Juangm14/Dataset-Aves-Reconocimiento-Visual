@@ -5,75 +5,76 @@
 
 ## Estructura del dataset
 <pre>
-├── CSV
-│   ├── AGUJA COLINEGRA.csv
-│   ├── ALCA COMÚN.csv
-│   ├── AVEFRÍA EUROPEA.csv
-│   ├── AVIÓN ROQUERO.csv
-│   ├── AVOCETA COMÚN.csv
-│   ├── CHARRÁN PATINEGRO.csv
-│   ├── CHORLITO DORADO EUROPEO.csv
-│   ├── ESTORNINO PINTO.csv
-│   ├── FLAMENCO COMUN.csv
-│   ├── FOCHA COMUN.csv
-│   ├── GARCILLA VUEYERA OCCIDENTAL.csv
-│   ├── GAVIOTA PATIAMARILLA.csv
-│   ├── GAVIOTA REIDORA.csv
-│   ├── GOLONDRINA COMUN.csv
-│   ├── GORRIÓN COMÚN.csv
-│   ├── GRAJILLA OCCIDENTAL.csv
-│   ├── JILGUERO EUROPEO.csv
-│   ├── MORITO COMÚN.csv
-│   ├── PALOMA TORCAZ.csv
-│   ├── PARDELA BALEAR.csv
-│   ├── PATO CUCHARÓN NORTEÑO.csv
-│   ├── SERÍN VERDECILLO.csv
-│   └── VENCEJO COMÚN.csv
-├── pruebas
-│   ├── AGUJA COLINEGRA
-│   ├── ALCA COMÚN
-│   ├── AVEFRÍA EUROPEA
-│   ├── AVIÓN ROQUERO
-│   ├── AVOCETA COMÚN
-│   ├── CHARRÁN PATINEGRO
-│   ├── CHORLITO DORADO EUROPEO
-│   ├── ESTORNINO PINTO
-│   ├── FLAMENCO COMUN
-│   ├── FOCHA COMUN
-│   ├── GARCILLA VUEYERA OCCIDENTAL
-│   ├── GAVIOTA PATIAMARILLA
-│   ├── GAVIOTA REIDORA
-│   ├── GOLONDRINA COMUN
-│   ├── GORRIÓN COMÚN
-│   ├── GRAJILLA OCCIDENTAL
-│   ├── JILGUERO EUROPEO
-│   ├── MORITO COMÚN
-│   ├── PALOMA TORCAZ
-│   ├── PARDELA BALEAR
-│   ├── PATO CUCHARÓN NORTEÑO
-│   ├── SERÍN VERDECILLO
-│   └── VENCEJO COMÚN
-├── test
-│   ├── AGUJA COLINEGRA
-│   ├── ALCA COMÚN
-│   ├── AVEFRÍA EUROPEA
-│   ├── AVIÓN ROQUERO
-│   ├── AVOCETA COMÚN
-│   └── ...
-├── train
-│   ├── AGUJA COLINEGRA
-│   ├── ALCA COMÚN
-│   ├── AVEFRÍA EUROPEA
-│   ├── AVIÓN ROQUERO
-│   ├── AVOCETA COMÚN
-│   └── ...
-└── valid
-    ├── AGUJA COLINEGRA
-    ├── ALCA COMÚN
-    ├── AVEFRÍA EUROPEA
-    ├── AVIÓN ROQUERO
-    ├── AVOCETA COMÚN
-    └── ...
+ dataset
+    ├── CSV
+    │   ├── AGUJA COLINEGRA.csv
+    │   ├── ALCA COMÚN.csv
+    │   ├── AVEFRÍA EUROPEA.csv
+    │   ├── AVIÓN ROQUERO.csv
+    │   ├── AVOCETA COMÚN.csv
+    │   ├── CHARRÁN PATINEGRO.csv
+    │   ├── CHORLITO DORADO EUROPEO.csv
+    │   ├── ESTORNINO PINTO.csv
+    │   ├── FLAMENCO COMUN.csv
+    │   ├── FOCHA COMUN.csv
+    │   ├── GARCILLA VUEYERA OCCIDENTAL.csv
+    │   ├── GAVIOTA PATIAMARILLA.csv
+    │   ├── GAVIOTA REIDORA.csv
+    │   ├── GOLONDRINA COMUN.csv
+    │   ├── GORRIÓN COMÚN.csv
+    │   ├── GRAJILLA OCCIDENTAL.csv
+    │   ├── JILGUERO EUROPEO.csv
+    │   ├── MORITO COMÚN.csv
+    │   ├── PALOMA TORCAZ.csv
+    │   ├── PARDELA BALEAR.csv
+    │   ├── PATO CUCHARÓN NORTEÑO.csv
+    │   ├── SERÍN VERDECILLO.csv
+    │   └── VENCEJO COMÚN.csv
+    ├── pruebas
+    │   ├── AGUJA COLINEGRA
+    │   ├── ALCA COMÚN
+    │   ├── AVEFRÍA EUROPEA
+    │   ├── AVIÓN ROQUERO
+    │   ├── AVOCETA COMÚN
+    │   ├── CHARRÁN PATINEGRO
+    │   ├── CHORLITO DORADO EUROPEO
+    │   ├── ESTORNINO PINTO
+    │   ├── FLAMENCO COMUN
+    │   ├── FOCHA COMUN
+    │   ├── GARCILLA VUEYERA OCCIDENTAL
+    │   ├── GAVIOTA PATIAMARILLA
+    │   ├── GAVIOTA REIDORA
+    │   ├── GOLONDRINA COMUN
+    │   ├── GORRIÓN COMÚN
+    │   ├── GRAJILLA OCCIDENTAL
+    │   ├── JILGUERO EUROPEO
+    │   ├── MORITO COMÚN
+    │   ├── PALOMA TORCAZ
+    │   ├── PARDELA BALEAR
+    │   ├── PATO CUCHARÓN NORTEÑO
+    │   ├── SERÍN VERDECILLO
+    │   └── VENCEJO COMÚN
+    ├── test
+    │   ├── AGUJA COLINEGRA
+    │   ├── ALCA COMÚN
+    │   ├── AVEFRÍA EUROPEA
+    │   ├── AVIÓN ROQUERO
+    │   ├── AVOCETA COMÚN
+    │   └── ...
+    ├── train
+    │   ├── AGUJA COLINEGRA
+    │   ├── ALCA COMÚN
+    │   ├── AVEFRÍA EUROPEA
+    │   ├── AVIÓN ROQUERO
+    │   ├── AVOCETA COMÚN
+    │   └── ...
+    └── valid
+        ├── AGUJA COLINEGRA
+        ├── ALCA COMÚN
+        ├── AVEFRÍA EUROPEA
+        ├── AVIÓN ROQUERO
+        ├── AVOCETA COMÚN
+        └── ...
 </pre>
 
 ## Contenido de cada carpeta
